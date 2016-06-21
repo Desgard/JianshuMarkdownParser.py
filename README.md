@@ -9,8 +9,11 @@
 
 ## Description
 
-尚未支持：
+在简书上发布文章，进行文字爬取，生成`**.md`文件，可同步至[瓜地](http://desgard.com)。
 
-* 图片
-* 代码
+## Next Mission
+
+* 爬取文章基本信息
+* 自动生成格式化文件名：`yyyy-MM-dd-{title}.md`
+* 本地创建文件
 
